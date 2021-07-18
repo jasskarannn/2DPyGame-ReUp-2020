@@ -1,0 +1,3 @@
+([('first',
+   '/Users/gpsingh/Desktop/misc/TCP Python/twt_pygame_tut/dist/first',
+   'EXECUTABLE')],)
